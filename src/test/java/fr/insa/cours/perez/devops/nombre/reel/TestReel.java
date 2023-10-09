@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-public class TestClass {
+public class TestReel {
     public Nombre nombre;
 
     @BeforeEach
